@@ -117,3 +117,11 @@ Usage: v2ray [options]... [args]...
 反馈问题) https://github.com/233boy/v2ray/issues
 文档(doc) https://233boy.com/v2ray/v2ray-script/
 ```
+系统支持：Ubuntu，Debian，CentOS，推荐使用 Ubuntu 22，谨慎使用 CentOS，脚本可能无法正常运行！
+
+执行如下命令：
+
+bash <(wget -qO- -o- https://git.io/v2ray.sh)
+
+安装命令如下：
+wget https://github.com/wildshepherd/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
